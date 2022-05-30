@@ -1,1 +1,2 @@
 first file adding after cloning remote repo to local repo 
+new line added form developer end now check in local repo after pulling whether this line comes in loc repo or not
